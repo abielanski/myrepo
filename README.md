@@ -1,6 +1,6 @@
 Pipeline Project Track 2
 
-The tools that need to be installed or accessible to run this pipeline are Python 3.11, Bowtie2, SPAdes, and BLAST+. The sample test data uploaded to repo are paired-end fastq files after the fastq-dump command. This sample test data can be used starting with step 2. Please use SampleTestData_1.
+The tools that need to be installed or accessible to run this pipeline are Python 3.11, Bowtie2, SPAdes, and BLAST+. The sample test data uploaded to repo are paired-end fastq files after the fastq-dump command. This sample test data can be used starting with step 2. Please use SampleTestData.
 
 This pipeline should run in the terminal by typing the command $python PipelineProject.py
 
